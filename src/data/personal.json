@@ -1,0 +1,61 @@
+{
+  "name": "Aditya Kumar",
+  "title": "Full-Stack Developer & CS Student at LPU",
+  "role": "Full-Stack Developer",
+  "location": "Phagwara, Punjab, India",
+  "timezone": "Asia/Kolkata",
+  "intro": "Computer Science student at Lovely Professional University. I build full-stack applications with Next.js, React, Node.js, and PostgreSQL — from geospatial ride-matching platforms to AI-powered storytelling tools.",
+  "role_label": "B.Tech CSE @ LPU",
+  "headline": "Building full-stack at scale.",
+  "availability": "Open to internships and collaborations",
+  "contact": {
+    "github": "adityak71",
+    "email": "adityak201811@gmail.com",
+    "phone": "+91 6204299671"
+  },
+  "about": {
+    "greeting": "👋 Hi, i'm Aditya Kumar.",
+    "current_role": "🎓 B.Tech Computer Science student at Lovely Professional University (CGPA: 8.07). Passionate about building production-grade full-stack applications.",
+    "specialization": "🚀 Built geospatial ride-matching systems with PostGIS, developer intelligence platforms with DAG-based knowledge graphs, and AI-powered storytelling apps with Google Gemini.",
+    "education": "📚 Completed Advanced Backend Development training with Node.js, Express, and MongoDB at LPU (Grade A, Certificate of Merit)."
+  },
+  "languages": [
+    { "name": "English", "level": "Professional Working" },
+    { "name": "Hindi", "level": "Native" }
+  ],
+  "social_profiles": [
+    {
+      "id": 1,
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/aditya-kumar-lpu",
+      "icon": "BsLinkedin"
+    },
+    {
+      "id": 2,
+      "name": "GitHub",
+      "link": "https://github.com/adityak71",
+      "icon": "FaGithub"
+    },
+    {
+      "id": 3,
+      "name": "WhatsApp",
+      "link": "https://wa.me/916204299671?text=Hi%20Aditya%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20discuss%20an%20opportunity%20with%20you.",
+      "icon": "FaWhatsapp"
+    },
+    {
+      "id": 4,
+      "name": "Instagram",
+      "link": "https://www.instagram.com/mr_aditya326/",
+      "icon": "FiInstagram"
+    },
+    {
+      "id": 5,
+      "name": "Twitter",
+      "link": "https://x.com/adityak071",
+      "icon": "SiX"
+    }
+  ],
+  "site": {
+    "tech_stack": ["Next.js 16", "React 19", "Tailwind v4", "Motion", "Lenis"]
+  }
+}

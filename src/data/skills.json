@@ -1,0 +1,123 @@
+{
+  "languages": [
+    "C++",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "SQL"
+  ],
+
+  "frontend": [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "GSAP",
+    "Motion",
+    "HTML5",
+    "CSS3"
+  ],
+
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "Prisma",
+    "Authentication",
+    "API Integration",
+    "Server-Side Development"
+  ],
+
+  "databases": [
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+    "Prisma ORM",
+    "Database Design",
+    "SQL"
+  ],
+
+  "apis": [
+    "REST APIs",
+    "Gemini API",
+    "Web Speech API"
+  ],
+
+  "dev_tools": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "VS Code",
+    "Postman",
+    "Vercel",
+    "npm"
+  ],
+
+  "cs_fundamentals": [
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming",
+    "Low-Level Design",
+    "Database Management Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Computer Architecture",
+    "Software Engineering",
+    "System Design Fundamentals",
+    "Problem Solving",
+    "SQL"
+  ],
+
+  "development_practices": [
+    "Object-Oriented Design",
+    "Database Design",
+    "API Design",
+    "CRUD Operations",
+    "Authentication & Authorization",
+    "Version Control",
+    "Debugging",
+    "Responsive Web Development"
+  ],
+
+  "soft_skills": [
+    "Problem Solving",
+    "Critical Thinking",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Continuous Learning"
+  ],
+
+  "areas_of_interest": [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "Software Engineering",
+    "System Design",
+    "AI/ML Integration",
+    "Open Source"
+  ],
+
+  "currently_practicing": [
+    "Data Structures & Algorithms",
+    "Low-Level Design",
+    "SQL",
+    "System Design",
+    "Backend Development"
+  ],
+
+  "hero_stack": [
+    "C++",
+    "TypeScript",
+    "JavaScript",
+    "Next.js",
+    "React",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Prisma",
+    "Tailwind CSS",
+    "Docker",
+    "Git",
+    "GitHub"
+  ]
+}

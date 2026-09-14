@@ -1,0 +1,20 @@
+{
+  "training": [
+    {
+      "id": 1,
+      "date": "June 2026 – July 2026",
+      "title": "Advanced Backend Development with Node.js, Express and MongoDB",
+      "position": "Certificate Training",
+      "company": "Center for Professional Enhancement, Lovely Professional University",
+      "location": "Phagwara, Punjab",
+      "summary": "Completed intensive backend development training program focused on building server-side applications.",
+      "description": {
+        "1": "Completed an Advanced Backend Development training program focused on building server-side applications using Node.js, Express.js, and MongoDB.",
+        "2": "Developed practical understanding of backend application development, server-side programming, Express.js-based application architecture, and MongoDB database integration.",
+        "3": "Earned Grade A and Certificate of Merit upon successful completion."
+      },
+      "skills": ["Node.js", "Express.js", "MongoDB"]
+    }
+  ],
+  "positions_of_responsibility": []
+}

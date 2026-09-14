@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "date": "August 2025 – Present",
+    "title": "B.Tech – Computer Science and Engineering",
+    "institution": "Lovely Professional University",
+    "department": "Department of Computer Science & Engineering",
+    "location": "Phagwara, Punjab, India",
+    "cgpa": "8.07",
+    "expected": "2028",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Web Development",
+      "AI/ML",
+      "Databases",
+      "Backend Development",
+      "Object-Oriented Programming",
+      "Low-Level Design",
+      "SQL",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  {
+    "id": 2,
+    "date": "July 2023 – July 2025",
+    "title": "Diploma – Mechanical Engineering",
+    "institution": "Vidya Memorial Institute of Technology",
+    "location": "Ranchi, Jharkhand, India",
+    "cgpa": "83.00%",
+    "skills": [
+      "Engineering Fundamentals",
+      "Technical Problem Solving",
+      "Adaptability",
+      "Teamwork"
+    ]
+  },
+  {
+    "id": 3,
+    "date": "August 2021 – July 2023",
+    "title": "ITI – Fitter",
+    "institution": "Dr. Rajendra Prasad Industrial Training Centre",
+    "department": "Fitter (NSQF)",
+    "location": "Hazaribagh, Jharkhand, India",
+    "level": "NSQF Level 5",
+    "result": "Pass",
+    "score": "1072 / 1200",
+    "percentage": "89.33%",
+    "skills": [
+      "Technical Problem Solving",
+      "Teamwork",
+      "Practical skills"
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2021",
+    "title": "Matriculation – Secondary School Examination",
+    "institution": "Campion Basic Academy",
+    "location": "Hazaribagh, Jharkhand, India",
+    "board": "CBSE",
+    "percentage": "68.00%",
+    "additionalSubject": "Information Technology – 85/100",
+    "skills": [
+      "Information Technology"
+    ]
+  }
+]

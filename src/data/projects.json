@@ -1,0 +1,260 @@
+{
+  "spotlight_project_id": 1,
+  "collaborative_projects": [
+    {
+      "id": 12,
+      "title": "TutorConnect",
+      "description": "Contributed to and extended an open-source tutoring platform with student and tutor workflows, authentication, booking, progress tracking, profile management, and dashboard functionality.",
+      "date": "2026",
+      "tools_tech": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "TanStack React Query",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "JWT",
+        "Vercel",
+        "Render"
+      ],
+      "features": [
+        "33 commits in personal fork",
+        "Full-stack feature development",
+        "Frontend and backend improvements",
+        "Authentication and authorization",
+        "Database-backed application development",
+        "Deployment and production configuration"
+      ],
+      "github": "https://github.com/adityak71/TutorConnect",
+      "live": "",
+      "imageUrl": "/assets/projects/tutor-connect.png"
+    }
+  ],
+  "community_projects": [],
+  "open_source_contributions": [
+    {
+      "repo": "adityak71/TutorConnect",
+      "stars": 0,
+      "title": "Full-stack feature development for tutoring platform",
+      "url": "https://github.com/adityak71/TutorConnect",
+      "status": "merged",
+      "note": "33 commits in personal fork"
+    }
+  ],
+  "community_discussions": [],
+  "featured_projects": [
+    {
+      "id": 1,
+      "title": "Campunex",
+      "description": "A geospatial campus ride-matching platform using PostgreSQL and PostGIS to match riders with drivers based on route overlap within a 500-meter proximity threshold. Features real-time GPS tracking via WebSockets and dual OTP authentication.",
+      "date": "August 2026",
+      "tools_tech": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "PostGIS",
+        "Redis",
+        "WebSockets"
+      ],
+      "features": [
+        "Geospatial ride-matching using PostgreSQL and PostGIS with 500m proximity threshold",
+        "Real-time GPS tracking and trip-state synchronization through WebSockets",
+        "Institutional identity verification, Redis-based geospatial caching, and dual 4-digit OTP authentication"
+      ],
+      "github": "https://github.com/adityak71/Campunex",
+      "live": ""
+    },
+    {
+      "id": 2,
+      "title": "Devnoesis",
+      "description": "A full-stack CS learning & developer intelligence platform aggregating coding activity from GitHub, LeetCode, and Codeforces. Features DAG-based prerequisite relationships, SM-2 spaced-repetition algorithm, and a dynamic Placement Readiness Score.",
+      "date": "August 2026",
+      "tools_tech": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Express.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma",
+        "Redis",
+        "BullMQ"
+      ],
+      "features": [
+        "Developer telemetry aggregating GitHub, LeetCode, and Codeforces APIs",
+        "Asynchronous API synchronization using Redis caching and BullMQ background workers",
+        "DAG-based CS knowledge graph with SM-2 spaced-repetition revision schedules",
+        "Dynamic Placement Readiness Score (0–100) in a unified Next.js dashboard"
+      ],
+      "github": "https://github.com/adityak71/Devnoesis",
+      "live": ""
+    },
+    {
+      "id": 3,
+      "title": "AI FanFic",
+      "description": "An AI-powered storytelling platform supporting 3 creative modes: real-time text chat, voice-based storytelling, and image generation. Built with Google Gemini API and Web Speech API across 5+ fandom universes.",
+      "date": "March 2026",
+      "tools_tech": [
+        "React",
+        "JavaScript",
+        "Tailwind CSS",
+        "Gemini API",
+        "Web Speech API",
+        "Motion"
+      ],
+      "features": [
+        "Google Gemini API integration with 3 creative modes: text chat, voice storytelling, and image generation",
+        "Personalized story generation across 5+ fandom universes with configurable genres",
+        "Streaming AI responses, Web Speech API voice input, and Framer Motion animations"
+      ],
+      "github": "https://github.com/adityak71/AI-fan-fiction",
+      "live": "https://ai-fan-fiction.vercel.app",
+      "imageUrl": "/assets/projects/ai-fan-fic.png"
+    }
+  ],
+  "other_projects": [
+    {
+      "id": 4,
+      "title": "Shopping Cart with Redux Toolkit",
+      "description": "A React shopping cart application built with Redux Toolkit for state management, featuring product listing, cart operations, and responsive design.",
+      "date": "August 2026",
+      "tools_tech": [
+        "React",
+        "Redux Toolkit",
+        "JavaScript"
+      ],
+      "features": [
+        "Redux Toolkit state management for cart operations",
+        "Product listing with add/remove functionality",
+        "Responsive design"
+      ],
+      "github": "https://github.com/adityak71/Shoping-Cart-With-Redux-Toolkit-React",
+      "live": "https://shoping-cart-with-redux-toolkit-rea.vercel.app",
+      "imageUrl": "/assets/projects/Shopping-Cart-With-Redux-Toolkit.png"
+    },
+    {
+      "id": 5,
+      "title": "Distributed File System",
+      "description": "A system that allows users to access and manage files stored across multiple machines as if they were on a single local disk, demonstrating distributed storage, retrieval, and management.",
+      "date": "November 2025",
+      "tools_tech": [
+        "C++"
+      ],
+      "features": [
+        "Distributed file storage and retrieval across multiple nodes",
+        "Network-based file management system",
+        "Efficient DFS architecture"
+      ],
+      "github": "https://github.com/adityak71/Distributed-file-system",
+      "live": "",
+      "imageUrl": "/assets/projects/distributed-file-system.png"
+    },
+    {
+      "id": 6,
+      "title": "Custom API ChatBox",
+      "description": "A chatbox application powered by custom API integration for conversational AI interactions.",
+      "date": "February 2026",
+      "tools_tech": [
+        "JavaScript"
+      ],
+      "features": [
+        "Custom API integration for chat",
+        "Conversational AI interface"
+      ],
+      "github": "https://github.com/adityak71/Custom-API-ChatBox",
+      "live": ""
+    },
+    {
+      "id": 7,
+      "title": "Weather App",
+      "description": "A weather forecasting application with live weather data, providing current conditions and forecasts.",
+      "date": "June 2026",
+      "tools_tech": [
+        "JavaScript",
+        "CSS"
+      ],
+      "features": [
+        "Live weather data fetching",
+        "Current conditions and forecasts",
+        "Responsive design"
+      ],
+      "github": "https://github.com/adityak71/Weather-App",
+      "live": "https://live-weather-forecasting.vercel.app",
+      "imageUrl": "/assets/projects/weather-app.png"
+    },
+    {
+      "id": 8,
+      "title": "Wildlife Monitoring System",
+      "description": "A wildlife monitoring system built with TypeScript for tracking and managing wildlife data.",
+      "date": "April 2026",
+      "tools_tech": [
+        "TypeScript",
+        "Next.js"
+      ],
+      "features": [
+        "Wildlife data tracking and management",
+        "Interactive monitoring dashboard"
+      ],
+      "github": "https://github.com/adityak71/Wildlife-Monitoring-System",
+      "live": "https://wildlife-monitoring-system-blush.vercel.app",
+      "imageUrl": "/assets/projects/wildlife-monitring-system.png"
+    },
+    {
+      "id": 9,
+      "title": "Tic-Tac-Toe Playground",
+      "description": "An interactive Tic-Tac-Toe game with a clean interface.",
+      "date": "June 2026",
+      "tools_tech": [
+        "JavaScript"
+      ],
+      "features": [
+        "Interactive game mechanics",
+        "Clean UI design"
+      ],
+      "github": "https://github.com/adityak71/Tic-Tac-Toe_PlayGround",
+      "live": "",
+      "imageUrl": "/assets/projects/tic-tac-toe-playground.png"
+    },
+    {
+      "id": 10,
+      "title": "Password Generator",
+      "description": "A password generator tool with customizable options for generating secure passwords.",
+      "date": "February 2026",
+      "tools_tech": [
+        "JavaScript"
+      ],
+      "features": [
+        "Customizable password options",
+        "Secure random generation"
+      ],
+      "github": "https://github.com/adityak71/Password-Generator",
+      "live": "",
+      "imageUrl": "/assets/projects/password-generator.png"
+    },
+    {
+      "id": 11,
+      "title": "Personal Portfolio",
+      "description": "This site — a minimal dark developer portfolio with ambient aurora background, data-driven architecture, and smooth scroll animations. Built with Next.js 16, React 19, Tailwind CSS v4, Motion, and Lenis.",
+      "date": "September 2026",
+      "tools_tech": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Motion",
+        "Lenis"
+      ],
+      "features": [
+        "Minimal dark design with ambient aurora + beam background",
+        "Data-driven content via JSON files",
+        "GitHub activity calendar integration",
+        "Custom cursor with click effects"
+      ],
+      "github": "https://github.com/adityak71/new-portfolio",
+      "live": ""
+    }
+  ]
+}

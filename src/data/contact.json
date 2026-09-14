@@ -1,0 +1,42 @@
+{
+  "contact_options": [
+    {
+      "id": 1,
+      "type": "email",
+      "label": "Email",
+      "value": "adityak201811@gmail.com",
+      "link": "mailto:adityak201811@gmail.com",
+      "icon": "Mail"
+    },
+    {
+      "id": 2,
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/aditya-kumar-lpu",
+      "link": "https://www.linkedin.com/in/aditya-kumar-lpu",
+      "icon": "Linkedin"
+    },
+    {
+      "id": 3,
+      "type": "github",
+      "label": "GitHub",
+      "value": "github.com/adityak71",
+      "link": "https://github.com/adityak71",
+      "icon": "Github"
+    },
+    {
+      "id": 4,
+      "type": "whatsapp",
+      "label": "WhatsApp",
+      "value": "+91 62042 99671",
+      "link": "https://wa.me/916204299671?text=Hi%20Aditya%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20discuss%20an%20opportunity%20with%20you.",
+      "icon": "MessageCircle"
+    }
+  ],
+  "email_config": {
+    "service_id": "TODO_REPLACE",
+    "template_id": "TODO_REPLACE",
+    "public_key": "TODO_REPLACE",
+    "TODO_REPLACE": true
+  }
+}

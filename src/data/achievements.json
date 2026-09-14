@@ -1,0 +1,87 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Database Management System Part - 1",
+      "type": "Certificate",
+      "issuer": "Infosys",
+      "issueDate": "2026-08",
+      "url": "https://drive.google.com/file/d/1KTI9l1hEZsSoerfvcM3ufD1iRb0PA-1D/view?usp=drive_link",
+      "badgeUrl": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png",
+      "imageUrl": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Programming in Java",
+      "type": "Certificate",
+      "issuer": "iamneo - an NIIT Venture",
+      "issueDate": "2026-05",
+      "url": "https://drive.google.com/file/d/1XtVWHtgUIJUOHmAAM1Ui86gVZEfQmT9U/view?usp=drive_link",
+      "badgeUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWAsDKxoUlPKOKKFU4B5soiPQQOdsiWODyHT90kQ9qBQ&s=10",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWAsDKxoUlPKOKKFU4B5soiPQQOdsiWODyHT90kQ9qBQ&s=10"
+    },
+    {
+      "id": 3,
+      "name": "Generative AI",
+      "type": "Certificate",
+      "issuer": "NASSCOM Skill Development Program",
+      "issueDate": "2026-03",
+      "url": "https://drive.google.com/file/d/1Pzv79Jn2kRqn_qKfeFukPsNR0ZcnJa1C/view?usp=drive_link",
+      "badgeUrl": "https://etimg.etb2bimg.com/thumb/msid-103253088,width-1200,height-900,resizemode-4/.jpg",
+      "imageUrl": "https://etimg.etb2bimg.com/thumb/msid-103253088,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Advanced Backend Development with Node.js, Express and MongoDB",
+      "type": "Certificate of Merit",
+      "issuer": "Lovely Professional University",
+      "issueDate": "2026-07",
+      "url" : "https://drive.google.com/file/d/1MPHVMV_f9-kPg8E95a-ze4MyajIX4gga/view?usp=drive_link",
+      "badgeUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQd87cG463D-g2QgjZrOQE4iAMrk_kGCX9pNaqsuTBw&s=10",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQd87cG463D-g2QgjZrOQE4iAMrk_kGCX9pNaqsuTBw&s=10"
+    }
+  ],
+
+  "learning_training": [
+    {
+      "id": 1,
+      "name": "Full-Stack Web Development",
+      "type": "Learning Platform",
+      "issuer": "CodeHelp",
+      "topics": [
+        "MERN Stack",
+        "Frontend Development",
+        "Backend Development",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "url": "https://www.codehelp.in/",
+      "badgeUrl": "https://cdn.codehelp.in/codehelp-frontend-assets/O_Fire_Black.gif",
+      "imageUrl": "https://cdn.codehelp.in/codehelp-frontend-assets/O_Fire_Black.gif"
+    },
+    {
+      "id": 2,
+      "name": "Data Structures & Software Engineering Fundamentals",
+      "type": "Learning Platform",
+      "issuer": "takeUforward",
+      "topics": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Low-Level Design",
+        "SQL",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "url": "https://takeuforward.org/",
+      "badgeUrl": "https://static.takeuforward.org/content/tuf_logo_F-nFV4asTo",
+      "imageUrl": "https://static.takeuforward.org/content/tuf_logo_F-nFV4asTo"
+    }
+  ],
+
+  "achievements": [],
+
+  "coding_platform_stats": {}
+}
