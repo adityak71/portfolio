@@ -130,11 +130,38 @@ const PdfCVModal = ({ isOpen, onClose, pdfSrc }: PdfCVModalProps) => {
 
             {/* PDF Viewer */}
             <div style={{ flex: 1, width: "100%", backgroundColor: "#e5e7eb", position: "relative" }}>
-              <iframe
-                src={`${pdfSrc}#toolbar=0`}
-                title="Resume"
-                style={{ width: "100%", height: "100%", border: "none" }}
-              />
+              <object
+                data={`${pdfSrc}#toolbar=0`}
+                type="application/pdf"
+                width="100%"
+                height="100%"
+                style={{ border: "none" }}
+              >
+                <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: 20, textAlign: "center" }}>
+                  <p style={{ color: "#374151", marginBottom: 16 }}>
+                    It appears your browser cannot display this PDF inline.
+                  </p>
+                  <a
+                    href={pdfSrc}
+                    download
+                    style={{
+                      display: "inline-flex",
+                      alignItems: "center",
+                      gap: "8px",
+                      fontSize: "14px",
+                      fontWeight: 500,
+                      color: "#fff",
+                      textDecoration: "none",
+                      padding: "10px 20px",
+                      borderRadius: "8px",
+                      backgroundColor: "#000",
+                    }}
+                  >
+                    <Download size={16} />
+                    Download Resume
+                  </a>
+                </div>
+              </object>
             </div>
           </motion.div>
         </div>
