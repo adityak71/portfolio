@@ -4,6 +4,7 @@ import '@fontsource-variable/bricolage-grotesque';
 import '@fontsource-variable/jetbrains-mono';
 import './globals.css';
 import { MotionPreferenceProvider } from '@/hooks/useMotionPreference';
+import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://thisisaditya.vercel.app'),
@@ -101,7 +102,9 @@ export default function RootLayout({
         <MotionPreferenceProvider>
           {children}
         </MotionPreferenceProvider>
+        <Analytics />
       </body>
     </html>
   );
 }
+
