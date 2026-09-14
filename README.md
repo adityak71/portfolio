@@ -80,8 +80,14 @@ Do NOT expose your real values in GitHub. A .env.example file is provided for re
 
 ## Deployment
 Deployed on [Vercel](https://vercel.com).
-To deploy, connect your GitHub repository to Vercel and it will automatically handle the build commands (
-pm run build) and deployment configurations.
+To deploy, connect your GitHub repository to Vercel and it will automatically handle the build commands (npm run build) and deployment configurations.
+
+## Domain Configuration
+If you change your live domain from `https://thisisaditya.vercel.app` to a new custom domain, you MUST update the domain string in the following files for SEO and Sitemap generation to work correctly:
+- **`README.md`**: Update the "Live Website" link at the top.
+- **`src/app/layout.tsx`**: Update `metadataBase`, `authors.url`, `openGraph.url`, and `twitter.url`.
+- **`src/app/robots.ts`**: Update the `sitemap` URL.
+- **`src/app/sitemap.ts`**: Update the `url` returned in the sitemap array.
 
 ## Future Improvements
 - **High Priority:**
