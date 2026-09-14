@@ -4,7 +4,7 @@ import '@fontsource-variable/bricolage-grotesque';
 import '@fontsource-variable/jetbrains-mono';
 import './globals.css';
 import { MotionPreferenceProvider } from '@/hooks/useMotionPreference';
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://thisisaditya.vercel.app'),
